@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Einleitung](README.md)
 * [Installation](installation/README.md)
    * [Updates](installation/updates.md)
 * [Kimai benutzen](manual/README.md)
