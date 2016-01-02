@@ -23,7 +23,7 @@
    * [Projects](manual/projects.md)
    * [Rates](manual/rates.md)
    * [Fees](manual/fees.md)
-* [Developer](developer/README.md)
+* [Entwickler](developer/README.md)
    * [Introduction](developer/introduction.md)
    * [Translations](developer/translations.md)
    * [Invoice templates](developer/invoice-templates.md)
