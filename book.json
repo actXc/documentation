@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "exercises"
+        "-exercises"
     ],
     "output": null,
     "pluginsConfig": {},
