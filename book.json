@@ -8,7 +8,7 @@
     "githubHost": "https://github.com/",
     "generator": "site",
     "title": null,
-    "language": "en,de",
+    "language": "",
     "links": {
         "sidebar": {
             "Kimai / Issues and Support": "https://github.com/kimai/kimai/issues"
