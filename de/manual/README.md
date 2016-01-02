@@ -1,6 +1,6 @@
 # Kimai nutzen
 
-Dies ist das Kimai-Handbuch - unsere Endanwender Dokumentation. Wir arbeiten kontinuierlich daran und übersetzen gerade die englische Version in die deutsche Version.
+Dies ist das Kimai-Handbuch - unsere Endanwender Dokumentation. Wir arbeiten kontinuierlich daran und erstellen gerade die deutsche Version aus der Übersetzung der englischen.
 
 Wen Sie Anregungen haben oder ein bischen helfen können, dann melden Sie sich im Forum. 
 
