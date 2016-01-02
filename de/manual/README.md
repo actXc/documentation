@@ -1,3 +1,7 @@
-# Using Kimai
+# Kimai nutzen
+
+Dies ist das Kimai-Handbuch - unsere Endanwender Dokumentation. Wir arbeiten kontinuierlich daran und übersetzen gerade die englische Version in die deutsche Version.
+
+Wen Sie Anregungen haben oder ein bischen Mithelfen mkönnen, dann meldne Sie sich im Forum 
 
 This is the Kimai manual - our end-user documentation. Its english version is not very comprehensive, we could use your help in improving it. [Please contact us in the forum](http://forum.kimai.org/).
