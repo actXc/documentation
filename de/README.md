@@ -17,8 +17,8 @@ Diese Dokumente sind als Download verfügbar::
 Zusätzlich bieten wir den Download einer deutschen Dokumentation an, die von einem Kimai-Nutzer erstellt wurde:
 
 * [Deutsche Anleitung als DOCX](https://github.com/kimai/manuals/blob/master/Kimai%20Zeiterfassung%20Benutzerhandbuch.docx?raw=true)
-* [Deutsche Anleitung als DOCX](https://github.com/kimai/manuals/blob/master/Kimai%20Zeiterfassung%20Benutzerhandbuch.odt?raw=true)
-* [Deutsche Anleitung als DOCX](https://github.com/kimai/manuals/blob/master/Kimai%20Zeiterfassung%20Benutzerhandbuch_deutsch_final.pdf?raw=true)
+* [Deutsche Anleitung als ODT](https://github.com/kimai/manuals/blob/master/Kimai%20Zeiterfassung%20Benutzerhandbuch.odt?raw=true)
+* [Deutsche Anleitung als PDF](https://github.com/kimai/manuals/blob/master/Kimai%20Zeiterfassung%20Benutzerhandbuch_deutsch_final.pdf?raw=true)
 
 ---
 Hier können Sie die Sprache der Dokumentation wählen: 
