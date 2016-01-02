@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Installation](installation/README.md)
    * [Updates](installation/updates.md)
-* [Using Kimai](manual/README.md)
+* [Kimai benutzen](manual/README.md)
    * [Timesheet](manual/timesheet.md)
    * [Administration](manual/administration.md)
        * Customers
