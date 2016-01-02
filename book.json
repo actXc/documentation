@@ -1,16 +1,18 @@
 {
+    "plugins": [
+        "exercises"
+    ],
     "output": null,
-    "language": "en,de",
-    "generator": "site",
-    "title": null,
-    "description": null,
+    "pluginsConfig": {},
     "github": null,
     "githubHost": "https://github.com/",
-    "plugins": [],
-    "pluginsConfig": {},
+    "generator": "site",
+    "title": null,
+    "language": "en,de",
     "links": {
         "sidebar": {
             "Kimai / Issues and Support": "https://github.com/kimai/kimai/issues"
         }
-    }
+    },
+    "description": null
 }
