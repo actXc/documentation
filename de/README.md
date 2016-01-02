@@ -5,10 +5,10 @@
 Herzlich willkommen bei der Dokumentation für die  Kimai Zeiterfassungs-Anwendung.
 
 Auch die Dokumentation wurde durch die Mithilfe der Community erstellt.
-Wir können ihre Hilfe gut gebrauchen. [Melden Sie sich im Forum, wenn Sie Verbesserungsvorschläge haben.](http://forum.kimai.org/)
+Wir können Ihre Hilfe gut gebrauchen. [Melden Sie sich im Forum, wenn Sie Verbesserungsvorschläge haben.](http://forum.kimai.org/)
 
 
-## Dokument zum herunterladen
+## Dokumente zum herunterladen
 
 Diese Dokumente sind als Download verfügbar::
 
