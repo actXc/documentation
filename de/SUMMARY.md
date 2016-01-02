@@ -1,7 +1,7 @@
 # Summary
 
 * [Einleitung](README.md)
-* [Installation](installation/README.md)
+* [Kimai installieren](installation/README.md)
    * [Updates](installation/updates.md)
 * [Kimai benutzen](manual/README.md)
    * [Timesheet](manual/timesheet.md)
