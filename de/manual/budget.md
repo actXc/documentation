@@ -1,3 +1,3 @@
 # Budget
 
-This extension displays a graphical overview of your projects budget.
+Überblick über die Budgets der Projekte
