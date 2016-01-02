@@ -23,7 +23,7 @@
    * [Projects](manual/projects.md)
    * [Rates](manual/rates.md)
    * [Fees](manual/fees.md)
-* [Entwickler](developer/README.md)
+* [Kimai weiter entwickeln](developer/README.md)
    * [Introduction](developer/introduction.md)
    * [Translations](developer/translations.md)
    * [Invoice templates](developer/invoice-templates.md)
