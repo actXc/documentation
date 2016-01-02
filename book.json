@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "-exercises",
         "github-buttons"
     ],
     "output": null,
